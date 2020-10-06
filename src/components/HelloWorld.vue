@@ -89,7 +89,8 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      testTravis: 'test Travis'
+      testTravis: 'test Travis',
+      testTravis2: 'test Travis2'
     }
   }
 }
